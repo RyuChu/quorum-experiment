@@ -4,7 +4,7 @@ NodesNum=$1
 
 jq_del_str=""
 
-for i in {16..1}; do
+for i in {65..1}; do
 
   jq_del_str+="$i,"
 
